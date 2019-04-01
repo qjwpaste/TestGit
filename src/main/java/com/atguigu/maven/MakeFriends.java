@@ -6,6 +6,7 @@ public class MakeFriends {
 		friend.sayHelloToFriend("litingwei");
 		String str = "Hey,"+friend.getMyName()+" make a friend please.";*/
 		System.out.println(name);
+		System.out.println("hot_fix...");
 		return "";
 	}
 }
